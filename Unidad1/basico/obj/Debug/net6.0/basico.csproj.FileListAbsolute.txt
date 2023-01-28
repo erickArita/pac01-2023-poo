@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Escritorio\clases\POO\prueba01\Unidad1\basico\bin\Debug\net6.0\basico.exe
+C:\Users\erick\OneDrive\Escritorio\clases\POO\prueba01\Unidad1\basico\bin\Debug\net6.0\basico.deps.json
+C:\Users\erick\OneDrive\Escritorio\clases\POO\prueba01\Unidad1\basico\bin\Debug\net6.0\basico.runtimeconfig.json
+C:\Users\erick\OneDrive\Escritorio\clases\POO\prueba01\Unidad1\basico\bin\Debug\net6.0\basico.dll
+C:\Users\erick\OneDrive\Escritorio\clases\POO\prueba01\Unidad1\basico\bin\Debug\net6.0\basico.pdb
+C:\Users\erick\OneDrive\Escritorio\clases\POO\prueba01\Unidad1\basico\obj\Debug\net6.0\basico.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Escritorio\clases\POO\prueba01\Unidad1\basico\obj\Debug\net6.0\basico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Escritorio\clases\POO\prueba01\Unidad1\basico\obj\Debug\net6.0\basico.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Escritorio\clases\POO\prueba01\Unidad1\basico\obj\Debug\net6.0\basico.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Escritorio\clases\POO\prueba01\Unidad1\basico\obj\Debug\net6.0\basico.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Escritorio\clases\POO\prueba01\Unidad1\basico\obj\Debug\net6.0\basico.dll
+C:\Users\erick\OneDrive\Escritorio\clases\POO\prueba01\Unidad1\basico\obj\Debug\net6.0\refint\basico.dll
+C:\Users\erick\OneDrive\Escritorio\clases\POO\prueba01\Unidad1\basico\obj\Debug\net6.0\basico.pdb
+C:\Users\erick\OneDrive\Escritorio\clases\POO\prueba01\Unidad1\basico\obj\Debug\net6.0\basico.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Escritorio\clases\POO\prueba01\Unidad1\basico\obj\Debug\net6.0\ref\basico.dll
