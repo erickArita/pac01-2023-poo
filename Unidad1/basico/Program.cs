@@ -1,3 +1,3 @@
 ﻿using basico.tipoDatos;
 
-Tipo01 tipo01 = new();
+Tipo02 tipo2 = new();
