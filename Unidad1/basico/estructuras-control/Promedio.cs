@@ -37,7 +37,6 @@ public class Promedio
         if (promedio < 70)
         {
             Console.WriteLine("Reprobado");
-            return;
         }
     }
 }

@@ -1,5 +1,4 @@
 ﻿using basico.estructuras_control;
-using basico.tipoDatos;
 
 
 int contador = 3;
