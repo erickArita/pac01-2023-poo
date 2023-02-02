@@ -13,28 +13,31 @@ public class Promedio
     {
         decimal promedio = (nota1 + nota2 + nota3) / 3;
 
+
+        Console.WriteLine("El promedio es " + Decimal.Round(promedio, 2));
+        Console.WriteLine("------------------------------ ");
         if (promedio > 90)
         {
             Console.WriteLine("Sobresaliente");
+            return;
         }
 
         if (promedio > 80)
         {
             Console.WriteLine("Bueno");
+            return;
         }
 
         if (promedio >= 70)
         {
             Console.WriteLine("Aprobado");
+            return;
         }
 
         if (promedio < 70)
         {
             Console.WriteLine("Reprobado");
+            return;
         }
-
-
-        Console.WriteLine("El promedio es " + Decimal.Round(promedio, 2));
-        Console.WriteLine("------------------------------");
     }
 }

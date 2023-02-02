@@ -1,8 +1,14 @@
 ﻿using basico.estructuras_control;
 using basico.tipoDatos;
 
-Promedio promedio = new(90, 80, 80);
-Promedio promedio2 = new(60, 50, 10);
-Promedio promedio3 = new(80, 85, 80);
 
+int contador = 3;
+decimal[] notas = {0, 0, 0};
 
+for (int i = 0; i < 3; i++)
+{
+    Console.WriteLine("Ingrese nota: " + (i + 1));
+    notas[i] = decimal.Parse(Console.ReadLine());
+}
+
+Promedio promedio = new(notas[0], notas[1], notas[2]);
