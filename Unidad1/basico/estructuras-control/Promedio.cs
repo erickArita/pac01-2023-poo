@@ -34,6 +34,7 @@ public class Promedio
         }
 
 
-        Console.WriteLine($"El promedio es {promedio}");
+        Console.WriteLine("El promedio es " + Decimal.Round(promedio, 2));
+        Console.WriteLine("------------------------------");
     }
 }
