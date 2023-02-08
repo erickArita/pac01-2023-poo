@@ -13,5 +13,6 @@
 // Promedio promedio = new(notas[0], notas[1], notas[2]);
 
 // Vocales vocales = new();
-ListarNumeros01 numeros = new();
+// ListarNumeros01 numeros = new();
 // ListarNumeros02 numeros2 = new();
+ListarNUmeros03 numeros = new();
