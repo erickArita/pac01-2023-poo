@@ -14,7 +14,12 @@ public class Arreglo02
 
             for (int i = 1; i < numeros.Length; i++)
             {
-                int rand = random.Next(1, size);
+                int rand = random.Next(1, 10);
+                while (numeros.Contains(rand))
+                {
+                    rand = random.Next(0, 10);
+                }
+
                 numeros[i] = rand;
                 Console.WriteLine($" {i} : {rand}");
             }
